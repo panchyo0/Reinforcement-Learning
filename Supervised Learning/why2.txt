@@ -1,0 +1,3 @@
+1. according question 6 in why1, we know example 4 and 2 have some same tiles, so after example 2, some tiles already update which means not 0. So the before value of the fourth point should be nonzero.
+
+2. In target founction, we use normal(0.0.1)，which means MSE will stuck around 0.01.
